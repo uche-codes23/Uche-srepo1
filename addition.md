@@ -6,3 +6,5 @@ Example 1:
 Example 2:
 
 2 + 4 = 6
+
+which is 2 + 2 + 2 = 6
